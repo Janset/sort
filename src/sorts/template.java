@@ -11,7 +11,7 @@ public class template
         {
             a = cin.nextInt();
             b = cin.nextInt();
-            System.out.println(a + b);
+            System.out.println(a + b+" hello diff");
         }
     }
 }

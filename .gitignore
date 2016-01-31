@@ -9,3 +9,4 @@
   build/
   #会忽略 doc/notes.txt 但不包括 doc/serber/arch.txt
   doc/*.txt
+#hello diff
